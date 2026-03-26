@@ -15,9 +15,6 @@ TE-10 therefore provides a **canonical data model** for key building, zone, asse
 
 **Target Front Runners/Pilots:** **All 6 Front Runners**, with early mapping examples and PoC alignment currently focused on **FR1 - Austria** and **FR4 - Greece**.
 
-**Architecture Diagram:**
-![Model](methodology.png)
-
 In practical terms, TE-10 sits between **data producers** and **service consumers** and enables both **near-real-time** and **batch context exchange** through a shared semantic layer built around a **Context Broker** and **pilot-specific adapters**. It is structured as a layered interoperability framework composed of:
 
 1. **Data Sources / Producers**
